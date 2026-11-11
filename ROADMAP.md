@@ -4,17 +4,17 @@ Where the generator is going: from a repository you clone into a tool any seller
 
 | # | Item | Type | Estimate |
 |---|---|---|---|
-| [#1](https://github.com/cuajada69/whatsapp-catalog-generator/issues/1) | CLI with `init` / `build` / `pdf`, published to npm | feature | ~5 h |
-| [#2](https://github.com/cuajada69/whatsapp-catalog-generator/issues/2) | JSON Schema for `catalog.json` (editor autocomplete, clearer errors) | feature | ~2 h |
-| [#3](https://github.com/cuajada69/whatsapp-catalog-generator/issues/3) | Three new themes and a `theme` option | feature | ~5 h |
-| [#4](https://github.com/cuajada69/whatsapp-catalog-generator/issues/4) | Optional prices with currency formatting, sold-out badge | feature | ~2 h |
-| [#5](https://github.com/cuajada69/whatsapp-catalog-generator/issues/5) | QR code to WhatsApp on cover and back cover | feature | ~1.5 h |
-| [#6](https://github.com/cuajada69/whatsapp-catalog-generator/issues/6) | Accept PNG and WebP photos, report optimization | feature | ~2 h |
-| [#7](https://github.com/cuajada69/whatsapp-catalog-generator/issues/7) | Import products from CSV | feature | ~3 h |
-| [#8](https://github.com/cuajada69/whatsapp-catalog-generator/issues/8) | Live preview while editing | feature | ~2 h |
-| [#9](https://github.com/cuajada69/whatsapp-catalog-generator/issues/9) | Export the catalog as a static website | feature | ~3 h |
-| [#10](https://github.com/cuajada69/whatsapp-catalog-generator/issues/10) | Integration test for PDF link verification | test | ~2 h |
-| [#11](https://github.com/cuajada69/whatsapp-catalog-generator/issues/11) | Spanish README, non-developer guide, examples for other businesses | docs | ~2 h |
+| [#1](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/1) | CLI with `init` / `build` / `pdf`, published to npm | feature | ~5 h |
+| [#2](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/2) | JSON Schema for `catalog.json` (editor autocomplete, clearer errors) | feature | ~2 h |
+| [#3](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/3) | Three new themes and a `theme` option | feature | ~5 h |
+| [#4](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/4) | Optional prices with currency formatting, sold-out badge | feature | ~2 h |
+| [#5](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/5) | QR code to WhatsApp on cover and back cover | feature | ~1.5 h |
+| [#6](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/6) | Accept PNG and WebP photos, report optimization | feature | ~2 h |
+| [#7](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/7) | Import products from CSV | feature | ~3 h |
+| [#8](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/8) | Live preview while editing | feature | ~2 h |
+| [#9](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/9) | Export the catalog as a static website | feature | ~3 h |
+| [#10](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/10) | Integration test for PDF link verification | test | ~2 h |
+| [#11](https://github.com/kilianvega-dev/whatsapp-catalog-generator/issues/11) | Spanish README, non-developer guide, examples for other businesses | docs | ~2 h |
 
 **Total: about 30 hours.**
 

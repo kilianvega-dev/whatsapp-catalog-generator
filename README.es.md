@@ -6,7 +6,7 @@ Genera **catálogos PDF listos para imprimir donde cada foto es un botón de Wha
 
 Hecho para mueblerías pequeñas de Colombia que venden por WhatsApp e Instagram. Se ha usado para entregar catálogos reales a varios clientes; este repositorio contiene el generador con una marca ficticia ("Muebles Demo") y fotos de dominio público.
 
-**[Descarga el PDF de ejemplo](https://github.com/cuajada69/whatsapp-catalog-generator/releases/download/v1.0.0/muebles-demo-catalog.pdf)** y toca cualquier foto para probar los enlaces.
+**[Descarga el PDF de ejemplo](https://github.com/kilianvega-dev/whatsapp-catalog-generator/releases/download/v1.0.0/muebles-demo-catalog.pdf)** y toca cualquier foto para probar los enlaces.
 
 ## Qué hace
 
